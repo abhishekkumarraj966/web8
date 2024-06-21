@@ -53,7 +53,7 @@ const Navbar = () => {
   );
 
   return (
-    <div className="bg-[#000] text-white  bg-opacity-25  sticky top-0 z-50 h-[80px]">
+    <div className="bg-[#000]  text-white  bg-opacity-25  sticky top-0 z-50 h-[80px]">
       <AppLayout>
         <nav>
           <div className="h-16 flex justify-between z-20 text-white lg:py-5 px-[20px] py-4 ">

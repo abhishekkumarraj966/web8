@@ -19,7 +19,7 @@ const ProductDetails = () => {
             Back
           </button>
         </Link>
-        <div className="grid sm:grid-cols-2 gap-4 grid-cols-1 bg-[#ECECEC] my-10">
+        <div className="grid sm:grid-cols-2 gap-4 grid-cols-1 bg-[#ECECEC] mt-10 pb-2">
           <div className="flex mx-2 sm:mx-auto">
             <div className="flex-col gap-4">
               <img

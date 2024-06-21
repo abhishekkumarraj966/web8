@@ -6,7 +6,7 @@ import inst from "./assites/instagram.png";
 // import you from "./assites/youtube.png";
 function Footer() {
   return (
-    <div className="w-full h-[700px]  sm:h-[350px] lg:h-[410px]  bg-[#000] text-[#202325] flex flex-col ">
+    <div className="w-full h-[700px]  sm:h-[350px] lg:h-[410px]  bg-[#000] text-[#FFF] flex flex-col ">
       <div class="grid grid-cols-1 sm:grid-cols-2  gap-4">
         <div className="lg:mb-0 mt-10 lg:mt-10 mx-5 sm:mx-5 lg:ml-[25%] ">
           <p className="mb-6 text-xl font-bold ">Contaact Details :-</p>
